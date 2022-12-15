@@ -1,4 +1,6 @@
-# Mitchellnemitz Php-versions
+# Homebrew PHP Versions
+
+A convenient home for now-disabled Homebrew PHP versions.
 
 ## How do I install these formulae?
 
